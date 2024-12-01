@@ -1,1 +1,1 @@
-# LanguageBot
+# NanoGPT
